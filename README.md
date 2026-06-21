@@ -116,8 +116,8 @@ You can also open an **Issue** to report a problem or propose an idea.
 - 🧩 **Source question:** [TestDome – Thermostat (QA)](https://www.testdome.com/library?skillArea=78&questionId=137821)
 - 🌐 **Portfolio:** [aysuismayil.github.io](https://aysuismayil.github.io)
 - 🐙 **GitHub:** [github.com/aysuismayil](https://github.com/aysuismayil)
-- 💼 **LinkedIn:** _add your LinkedIn URL here_
-- ▶️ **YouTube:** _add your YouTube URL here_
+- 💼 **LinkedIn:** [aysu-ismayilzada](https://www.linkedin.com/in/aysu-ismayilzada-6668582a5/)
+- ▶️ **YouTube:** [@AysuIsmayil](https://www.youtube.com/@AysuIsmayil)
 
 ---
 
